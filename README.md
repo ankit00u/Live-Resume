@@ -22,7 +22,7 @@ It allows recruiters to always access the **most updated version** of my resume 
 
 ## 👨‍💻 About Me
 - 🎓 **Applied Electronics & Instrumentation Engineering (Haldia Institute of Technology, 2026)**  
-- 📊 Skilled in **Python, SQL, Power BI, Data Visualization**  
+- 📊 Skilled in **Python, SQL, Power BI, Data Visualization, Microsoft Excel, Presentation and Effective Communication**  
 - 🔍 Interested in **Data Analytics, Business Intelligence, and Automation**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ankit-dey-564111366/)  
 
