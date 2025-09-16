@@ -1,4 +1,4 @@
-<h1 align="center">💼 My Live Resume</h1>
+ <h1 align="center">💼 My Live Resume</h1>
 
 <p align="center">
   <a href="https://ankit00u.github.io/Live-Resume/" target="_blank">
@@ -29,8 +29,8 @@ It allows recruiters to always access the **most updated version** of my resume 
 ---
 
 ## ⚡ Preview
-🔗 **Live Resume Website:** [https://ankit00u.github.io](https://ankit00u.github.io)  
-📄 **Download PDF Resume:** [resume.pdf](resume.pdf)
+🔗 **Live Resume Website:** [Here](https://ankit00u.github.io/Live-Resume/)  
+📄 **Download PDF Resume:** [PDF](resume.pdf)
 
 ---
 
