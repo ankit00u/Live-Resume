@@ -1,4 +1,4 @@
- <h1 align="center">💼 My Live Resume</h1>
+ <h1 align="center">💼 ANKIT DEY</h1>
 
 <p align="center">
   <a href="https://ankit00u.github.io/Live-Resume/" target="_blank">
