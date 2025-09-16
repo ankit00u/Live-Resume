@@ -1,7 +1,7 @@
 <h1 align="center">💼 My Live Resume</h1>
 
 <p align="center">
-  <a href="https://ankit00u.github.io" target="_blank">
+  <a href="https://ankit00u.github.io/Live-Resume/" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge" alt="Resume Link"/>
   </a>
   <a href="resume.pdf" target="_blank">
