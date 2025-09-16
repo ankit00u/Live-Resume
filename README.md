@@ -4,7 +4,7 @@
   <a href="https://ankit00u.github.io/Live-Resume/" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge" alt="Resume Link"/>
   </a>
-  <a href="resume.pdf" target="_blank">
+  <a href="resume.pdf" download>
     <img src="https://img.shields.io/badge/Download-RESUME-green?style=for-the-badge" alt="Resume PDF"/>
   </a>
   <a href="https://www.linkedin.com/in/ankit-dey-564111366/" target="_blank">
