@@ -29,7 +29,7 @@ It allows recruiters to always access the **most updated version** of my resume 
 ---
 
 ## ⚡ Preview
-🔗 **Live Resume Website:** [https://yourusername.github.io](https://yourusername.github.io)  
+🔗 **Live Resume Website:** [https://ankit00u.github.io](https://ankit00u.github.io)  
 📄 **Download PDF Resume:** [resume.pdf](resume.pdf)
 
 ---
