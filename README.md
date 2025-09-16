@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge" alt="Resume Link"/>
   </a>
   <a href="resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-PDF-green?style=for-the-badge" alt="Resume PDF"/>
+    <img src="https://img.shields.io/badge/Download-RESUME-green?style=for-the-badge" alt="Resume PDF"/>
   </a>
   <a href="https://www.linkedin.com/in/ankit-dey-564111366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
