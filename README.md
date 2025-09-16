@@ -30,7 +30,6 @@ It allows recruiters to always access the **most updated version** of my resume 
 
 ## ⚡ Preview
 🔗 **View My Latest Resume:** [Here](https://ankit00u.github.io/Live-Resume/)  
-📄 **Download this:** <a href="https://raw.githubusercontent.com/ankit00u/Live-Resume/main/resume.pdf" download>Click to Download PDF</a>
 
 ---
 
