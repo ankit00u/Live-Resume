@@ -1,10 +1,10 @@
- <h1 align="center">💼 ANKIT DEY</h1>
+<h1 align="center">💼 ANKIT DEY</h1>
 
 <p align="center">
   <a href="https://ankit00u.github.io/Live-Resume/" target="_blank">
     <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge" alt="Resume Link"/>
   </a>
-  <a href="resume.pdf" download>
+  <a href="https://raw.githubusercontent.com/ankit00u/Live-Resume/main/resume.pdf" download>
     <img src="https://img.shields.io/badge/Download-RESUME-green?style=for-the-badge" alt="Resume PDF"/>
   </a>
   <a href="https://www.linkedin.com/in/ankit-dey-564111366/" target="_blank">
@@ -30,7 +30,7 @@ It allows recruiters to always access the **most updated version** of my resume 
 
 ## ⚡ Preview
 🔗 **View My Latest Resume:** [Here](https://ankit00u.github.io/Live-Resume/)  
-📄 **Download this:** [PDF](resume.pdf)
+📄 **Download this:** <a href="https://raw.githubusercontent.com/ankit00u/Live-Resume/main/resume.pdf" download>Click to Download PDF</a>
 
 ---
 
