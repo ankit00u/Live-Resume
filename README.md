@@ -29,8 +29,8 @@ It allows recruiters to always access the **most updated version** of my resume 
 ---
 
 ## ⚡ Preview
-🔗 **Live Resume Website:** [Here](https://ankit00u.github.io/Live-Resume/)  
-📄 **Download PDF Resume:** [PDF](resume.pdf)
+🔗 **View My Latest Resume:** [Here](https://ankit00u.github.io/Live-Resume/)  
+📄 **Download this:** [PDF](resume.pdf)
 
 ---
 
