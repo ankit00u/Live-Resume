@@ -33,4 +33,4 @@ It allows recruiters to always access the **most updated version** of my resume 
 
 ---
 
-<p align="center">⭐ If you like this idea, feel free to fork this repo and build your own live resume!</p>
+<p align="center">⭐ If you like this idea, feel free to fork this repo and build your own Portfolio!</p>
