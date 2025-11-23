@@ -15,14 +15,14 @@
 ---
 
 ## 📌 About This Repo
-This repository hosts my **live resume website**, built using **HTML + CSS** and deployed with **GitHub Pages**.  
-It allows recruiters to always access the **most updated version** of my resume online.  
+This repository hosts my **Portfolio**, built using **HTML + CSS** and deployed with **GitHub Pages**.  
+It allows recruiters to always access the **most updated version** of my resume online and other details.  
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 **Applied Electronics & Instrumentation Engineering (Haldia Institute of Technology, 2026)**  
-- 📊 Skilled in **Python, SQL, Power BI, Data Visualization, Microsoft Excel, Presentation and Effective Communication**  
+- 📊 Skilled in **Python, SQL, Power BI, Data Visualization, Data Analytics, Microsoft Excel, Presentation and Effective Communication**  
 - 🔍 Interested in **Data Analytics, Business Intelligence, and Automation**  
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ankit-dey-564111366/)  
 
