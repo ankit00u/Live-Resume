@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ankit00u.github.io/Ankit-Dey-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge" alt="Resume Link"/>
+    <img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge" alt="Resume Link"/>
   </a>
   <a href="https://raw.githubusercontent.com/ankit00u/Live-Resume/main/resume.pdf" download>
     <img src="https://img.shields.io/badge/Download-RESUME-green?style=for-the-badge" alt="Resume PDF"/>
